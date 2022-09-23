@@ -1,0 +1,13 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-weight: 500;
+}
+
+.d-block {
+    width: 400px;
+    border-radius: 50%;
+}
